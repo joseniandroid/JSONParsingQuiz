@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON Parsing Quiz</string>
+    <string name="poster">poster</string>
+    <string name="parse">Parse</string>
+</resources>
